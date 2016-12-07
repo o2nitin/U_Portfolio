@@ -1,0 +1,43 @@
+body{
+    margin-top: 10px;
+}
+manual-container{
+ 
+    padding-right: 120px;
+    padding-left: 120px;
+    
+
+}
+.name {
+    text-align: right;
+    text-transform:uppercase;
+}
+
+.mytext{
+    font-family: 'Open Sans', sans-serif;
+}
+.mytext-color {
+    color: #6b6b47;
+}
+.middle{
+    height: 200px;
+}
+hr {
+    border-top: 3px solid #778899;
+}
+h2 {
+        margin-bottom: -18px;
+}
+p {
+    text-align: center;
+    font-size: x-large;
+}
+.gray{
+    color: #b3b3b3;
+    padding-left: 10px;
+    
+}
+.git {
+    text-align: center;
+    margin-top: -10px;
+}
