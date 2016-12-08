@@ -1,9 +1,9 @@
 body {
     margin-top: 10px;
 }
-manual-container {
-    padding-right: 120px;
-    padding-left: 120px;
+.manual-container {
+    padding-right: 40px;
+    padding-left: 40px;
 }
 .st0 {
     fill: #02b3e4
